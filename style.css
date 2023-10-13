@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: #050505cc;
+}
+
+h1 {
+    color: rgb(41, 177, 255);
+}
+
+h1:hover {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #2effd2, 0 0 20px #2effd2,
+        0 0 25px #2effd2, 0 0 30px #2effd2;
+}
